@@ -18,6 +18,10 @@ mkdir maipu
 cd maipu
 touch lista.xls
 cd ..
+mkdir puente-alto
+cd puente-alto
+touch lista.xls
+cd ..
 mkdir renca
 cd renca
 touch lista.xls
